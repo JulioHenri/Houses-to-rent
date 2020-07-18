@@ -1,4 +1,4 @@
-# Houses-to-rent
+# Houses to rent
  In this apresentation i will be using open data from kaggle. You can see this data <a href='https://www.kaggle.com/rubenssjr/brasilian-houses-to-rent'>here</a>
  
  Questions to be answered:
