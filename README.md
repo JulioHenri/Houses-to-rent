@@ -17,3 +17,5 @@ animals and do not accept and how much do they differ? <br>
 <li>For Data Viz: Matplotlib, Seaborn</li>
 <li>For Machine Learning: Sklearn</li>
 <li>For Statistical Analysis: Statsmodels</li>
+
+Notebook update: <a href='https://github.com/JulioHenri/Houses-to-rent/blob/master/houses_to_rent3.ipynb'>here</a>
