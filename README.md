@@ -1,6 +1,8 @@
 # Houses to rent
  In this apresentation i will be using open data from kaggle. You can see this data <a href='https://www.kaggle.com/rubenssjr/brasilian-houses-to-rent'>here</a>
  
+ ![image](https://user-images.githubusercontent.com/64214285/199339907-e83e3b6d-308f-4a47-9804-927c081640b8.png)
+
  Questions to be answered:
 
 1. What is the distribution of furnished and unfurnished houses by city? <br>
